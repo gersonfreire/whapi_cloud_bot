@@ -15,6 +15,7 @@
 
 
 <p align="center"> 🤖 Few lines describing what your bot does.
+Just a simple WhatsApp Bot, please contact me by Github discussions
     <br> 
 </p>
 
